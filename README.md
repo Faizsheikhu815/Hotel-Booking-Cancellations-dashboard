@@ -24,4 +24,4 @@ Developed an interactive Hotel Booking Cancellations Dashboard in Microsoft Exce
 
 The dashboard helps hotel management identify cancellation patterns, optimize booking strategies, and make data-driven decisions to improve occupancy rates and revenue performance.
 
-# Screenshots of dashboard:-[Alt text]
+# Screenshots of dashboard:-[Alt text](https://github.com/Faizsheikhu815/Hotel-Booking-Cancellations-dashboard/blob/main/Snapshots%20of%20dashboard.png)
